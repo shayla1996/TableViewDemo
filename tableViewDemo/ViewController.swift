@@ -64,8 +64,5 @@ class ViewController: UIViewController ,UITableViewDelegate, UITableViewDataSour
         print(indexPath.row)
         print(birds[indexPath.row].name)
     }
-
-
-    
 }
 
